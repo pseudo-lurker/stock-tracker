@@ -1,0 +1,11 @@
+.idea/
+venv/
+
+__pycache__/
+.pytest_cache/
+tracker/static/
+tracker/celerybeat-schedule.db
+tracker/.env
+*.sqlite3
+
+
