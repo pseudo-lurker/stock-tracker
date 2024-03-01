@@ -13,7 +13,6 @@ django-filter==23.5
 django-timezone-field==6.1.0
 djangorestframework==3.14.0
 kombu==5.3.5
-pkg_resources==0.0.0
 polygon-api-client==1.13.4
 prompt-toolkit==3.0.43
 python-crontab==3.0.0
