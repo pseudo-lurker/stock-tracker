@@ -5,7 +5,7 @@ __pycache__/
 .pytest_cache/
 tracker/static/
 tracker/celerybeat-schedule.db
-tracker/.env
+tracker/tracker/.env
 *.sqlite3
 
 
